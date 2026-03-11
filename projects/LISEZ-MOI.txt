@@ -1,0 +1,2 @@
+# Ce dossier contiendra vos images de projets.
+# Glissez vos fichiers ici et utilisez le chemin "/projects/votre-image.jpg" dans le code.
